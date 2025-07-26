@@ -1,6 +1,7 @@
 # safe-url-scanne
 python scan_urls.py
 name: URL Scanner
+name: URL Scanner
 on:
   push:
     paths:
